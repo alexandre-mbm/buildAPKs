@@ -1,0 +1,9 @@
+[submodule "scripts/bash/shlibs"]
+	path = scripts/bash/shlibs
+	url = https://github.com/shlibs/shlibs.bash
+[submodule "debs/ecj4.6"]
+	path = debs/ecj4.6
+	url = https://github.com/BuildAPKs/debs.ecj4.6.buildAPKs
+[submodule "debs/ecj4.7"]
+	path = debs/ecj4.7
+	url = https://github.com/BuildAPKs/debs.ecj.buildAPKs
